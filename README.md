@@ -1,1 +1,1 @@
-# Artificial-Intelligence - practice - note
+# Artificial-Intelligence - practice - notes
