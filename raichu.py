@@ -5,7 +5,7 @@
 # Saiabhinav Chekka   - schekka@iu.edu
 # Sai Kalluri         - saik@iu.edu
 
-# Based on skeleton code by D. Crandall, Oct 2021
+# Based on skelton code by D. Crandall, Oct 2021
 #
 from ntpath import join
 import sys
