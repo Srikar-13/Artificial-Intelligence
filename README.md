@@ -1,1 +1,1 @@
-# Artificial-Intelligence - practice - class notes
+# Artificial-Intelligence - practice - Assignments
