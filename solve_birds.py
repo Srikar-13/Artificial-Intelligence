@@ -26,7 +26,7 @@ N=5
 def is_goal(state):
     return state == list(range(1, N+1))
 
-# Successor function:
+# Successors function:
 # given a state, return a list of successor states
 def successors(state):
     return [ state[0:n] + [state[n+1],] + [state[n],] + state[n+2:] for n in range(0, N-1) ]
