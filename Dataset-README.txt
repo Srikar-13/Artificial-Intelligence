@@ -17,6 +17,6 @@ The space delimited fields are:
 Note that there are mistakes and bugs in these files and your code should
 still operate correctly; e.g. not all cities that appear in road-segments.txt
 have a corresponding line in city-gps.txt. You should assume that all roads
-in road-segments.txt are bidirectioal, i.e. none are one-way roads, so
+in road-segments.txt are bidiectioal, i.e. none are one-way roads, so
 that it's possible to travel from the first city to the second city at the
 same distance at speed as from the second city to the first city.
