@@ -2,7 +2,7 @@
 #!/usr/local/bin/python3
 # solver2021.py : 2021 Sliding tile puzzle solver
 #
-# Code by: [kartik Bhardwaj 2000913109 karbhar@iu.edu]
+# Code by: [kartik Bharadwaj 2000913109 karbhar@iu.edu]
 #
 # Based on skeleton code by D. Crandall & B551 Staff, September 2021
 #
