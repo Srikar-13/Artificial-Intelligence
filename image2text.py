@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Perform optical character recognition, usage:
+# Perform optical character recognittion, usage:
 #     python3 ./image2text.py train-image-file.png train-text.txt test-image-file.png
 # 
 # Nithin Varadharajan : nvaradha@iu.edu
