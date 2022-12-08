@@ -5,7 +5,7 @@
 #
 #Stephen Karukas, Zoher Kachwala, Vibhas Vats
 
-#importing student's scripts
+#importing student scripts
 import solver2022
 from collections import defaultdict
 import pytest
