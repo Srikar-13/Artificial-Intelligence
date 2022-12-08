@@ -3,7 +3,7 @@
 #
 # Nithin Varadharajan - nvaradha@iu.edu
 # Saiabhinav Chekka   - schekka@iu.edu
-# Sai Kalluri         - saik@iu.edu
+# Sai Kaluri         - saik@iu.edu
 
 # Based on skeleton code by D. Crandall, Oct 2021
 #
