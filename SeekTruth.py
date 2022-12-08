@@ -1,6 +1,6 @@
 # SeekTruth.py : Classify text objects into two categories
 #
-# PLEASE PUT YOUR NAMES AND USER IDs HERE
+# PLEASE PUT YOUR NAME AND USER IDs HERE
 #
 # Based on skeleton code by D. Crandall, October 2021
 #
