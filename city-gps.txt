@@ -42,7 +42,7 @@ Albany,_Georgia 31.5785074 -84.155741
 Albany,_New_York 42.6525793 -73.7562317
 Albany,_Ohio 39.2275735 -82.2023695
 Albany,_Oregon 44.6365107 -123.1059282
-Albany,_Prince_Edward_Island 46.286052 -63.643834
+Albany,_Prince_Edard_Island 46.286052 -63.643834
 Albany,_Texas 32.723452 -99.2973005
 Albert_Lea,_Minnesota 43.6478006 -93.3686555
 Albertville,_Alabama 34.2675937 -86.2088669
