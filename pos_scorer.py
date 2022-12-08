@@ -3,7 +3,7 @@
 # 
 # Scoring code by D. Crandall
 #
-# PLEASE DON'T MODIFY THIS FILE.
+# PLEASE DONT MODIFY THIS FILE.
 # Edit pos_solver.py instead!
 #
 
