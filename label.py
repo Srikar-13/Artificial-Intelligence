@@ -2,7 +2,7 @@
 # CS B551 Fall 2022, Assignment #3
 # D. Crandall
 #
-# There should be no need to modify this file.
+# There should be no need to modif this file.
 # Edit pos_solver.py instead!
 #
 # To get started, try running: 
