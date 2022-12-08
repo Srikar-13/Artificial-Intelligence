@@ -1,7 +1,7 @@
 ###################################
 # CS B551 Fall 2022, Assignment #3
 #
-# Your names and user ids: 
+# Your names and user id: 
 # Nithin Varadharajan : nvaradha@iu.edu
 # Saiabhinav Chekka : schekka@iu.edu
 # Sai Kalluri : saik@iu.edu
