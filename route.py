@@ -50,7 +50,7 @@ def get_lat_long_dicts():
         -"total-delivery-hours": a float indicating the expected (average) time 
                                    it will take a delivery driver who may need to return to get a new package
     2. Do not add any extra parameters to the get_route() function, or it will break our grading and testing code.
-    3. Please do not use any global variables, as it may cause the testing code to fail.
+    3. Please do not use any gloal variable, as it may cause the testing code to fail.
     4. You can assume that all test cases will be solvable.
     5. The current code just returns a dummy solution.
     """
